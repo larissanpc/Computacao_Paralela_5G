@@ -1,2 +1,2 @@
-# Computacao_Paralela_5G
-Lab01
+# LAB 01
+Código na linguagem C que executa Hello World.
